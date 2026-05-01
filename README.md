@@ -2,7 +2,7 @@
 
 <h1 align="center"> ⋆˚࿔ 🅷🅴🆈 𝜗𝜚˚⋆ </h1>
 
-<img src="https://media.tenor.com/cpmCB81UfgAAAAAi/psyduck.gif" width="55%" align="left"/>
+<img src="https://media.tenor.com/cpmCB81UfgAAAAAi/psyduck.gif" width="57%" align="left"/>
 
 ╔══════════════════════════════════╗
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✨ <b>About Me</b>
