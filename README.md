@@ -4,8 +4,6 @@
 
 <img src="https://media.tenor.com/cpmCB81UfgAAAAAi/psyduck.gif" width="59%" align="left"/>
 
-<br>
-
 ╔══════════════════════════════════╗
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✨ <b>About Me</b>
 <br>&nbsp;&nbsp;💻 Working on: Freelance or Self-Projects
