@@ -2,7 +2,7 @@
 
 <h1 align="center"> ⋆˚࿔ 🅷🅴🆈 𝜗𝜚˚⋆ </h1>
 
-<img src="https://media.tenor.com/cpmCB81UfgAAAAAi/psyduck.gif" width="50%" align="left"/>
+<img src="https://media.tenor.com/cpmCB81UfgAAAAAi/psyduck.gif" width="55%" align="left"/>
 
 ╔══════════════════════════════════╗
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✨ <b>About Me</b>
@@ -40,7 +40,6 @@
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-circle&logo=microsoftoffice&logoColor=white"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-circle&logo=n8n&logoColor=white"/>
 </p>
-╚══════════════════════════════════╝
 
 <br clear="left"/>
 
